@@ -1,0 +1,12 @@
+test.py
+config.py
+config2.py
+.idea/
+all_likes/
+fans/
+following/
+likes/
+log/
+node_modules/
+temp/
+weibo/
